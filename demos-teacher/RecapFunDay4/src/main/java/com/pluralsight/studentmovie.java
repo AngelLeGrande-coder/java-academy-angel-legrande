@@ -1,3 +1,5 @@
+package com.pluralsight;
+
 public class studentmovie {
     public static void main(String[] args) {
         String movieTitle = ("Weapons");
