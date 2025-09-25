@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/cat-exercise.iml" filepath="$PROJECT_DIR$/cat-exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-academy-angel-legrande.iml" filepath="$PROJECT_DIR$/.idea/java-academy-angel-legrande.iml" />
     </modules>
   </component>

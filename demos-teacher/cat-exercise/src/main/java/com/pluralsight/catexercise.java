@@ -14,5 +14,13 @@ public class catexercise {
         System.out.println("Age = 1");
         System.out.println("Weight = 1.3kg");
         System.out.println("isHungry = true");
+        boolean isSleeping = false;
+        boolean isPurring = true;
+        if (isSleeping) {
+            System.out.println("Demon is sleeping... zzz");
+        } else {
+            System.out.println("Demon is awake and wants attention!");
+
+        }
     }
 }
