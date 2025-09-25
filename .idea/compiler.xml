@@ -6,10 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="demo-cat" />
         <module name="string-application" />
-        <module name="cat-exercise" />
         <module name="math-application" />
+        <module name="cat-exercise" />
+        <module name="cat-demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
