@@ -13,7 +13,6 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="cat-exercise" target="17" />
       <module name="ex-demo-from-teacher" target="17" />
       <module name="helloworld" target="17" />
       <module name="Helloworld" target="17" />
