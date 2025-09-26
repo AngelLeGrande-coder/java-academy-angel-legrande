@@ -5,7 +5,7 @@ package com.pluralsight;
 public class Main {
     public static void main(String[] args) {
 
-        Hi("Bilal"); // Call the function -> It runs that piece of code. Benefits of reuse
+        Hi("Jasmine"); // Call the function -> It runs that piece of code. Benefits of reuse
         Hi("Nazik");
         Hi("Angel");
 
