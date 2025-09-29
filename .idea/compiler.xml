@@ -6,8 +6,6 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="string-application" />
-        <module name="math-application" />
         <module name="cat-exercise" />
         <module name="cat-demo" />
       </profile>
@@ -16,6 +14,8 @@
       <module name="ex-demo-from-teacher" target="17" />
       <module name="helloworld" target="17" />
       <module name="Helloworld" target="17" />
+      <module name="math-application" target="17" />
+      <module name="string-application" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
