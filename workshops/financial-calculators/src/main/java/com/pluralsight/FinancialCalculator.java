@@ -2,7 +2,7 @@ package com.pluralsight;
 
 import java.util.Scanner;
 
-public class FinancialCalculator {
+public class FinancialCalculator  {
     public static void main(String[] args) {
         Scanner scnr = new Scanner(System.in);
         FinancialCalculator finCalc = new FinancialCalculator();
