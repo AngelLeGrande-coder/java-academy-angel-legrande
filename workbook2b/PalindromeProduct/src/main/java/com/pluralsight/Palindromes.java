@@ -26,7 +26,7 @@ public class Palindromes {
                 }
             }
         }
-        System.out.printf(" Largest so far: %d (%d x %d)%n", max, bestA, bestB);
+        System.out.printf("Largest so far: %d (%d x %d)%n", max, bestA, bestB);
 
 
 
